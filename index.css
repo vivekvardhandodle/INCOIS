@@ -1,4 +1,7 @@
-.nav-bar{
-    background-color: #e7e7e7;
-    font-weight: 600;
+.side-nav {
+  background-color: #fdfdfd;
+  font-weight: 500;
+}
+.slider {
+  border-radius: 25px;
 }
