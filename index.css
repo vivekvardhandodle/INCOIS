@@ -5,3 +5,10 @@
 .slider {
   border-radius: 25px;
 }
+.content{
+  background-color: #f7f7f7;
+}
+
+.card{
+  border-radius: 15px;
+}
